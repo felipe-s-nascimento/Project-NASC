@@ -3,4 +3,4 @@
 Firmware de controle do NASC
 
 O que o código contém: 
-- Controle de um chassi esteira lagarta através do Dualshock 4 com ESP32
+- Controle de um chassi esteira lagarta através ESP32 com Dualshock 4
